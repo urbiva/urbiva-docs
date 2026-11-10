@@ -16,7 +16,7 @@ Urbiva is AI-powered urban accessibility intelligence: suitable walking routes f
 | **Implemented** | Works in `urbiva-app` today |
 | **Sample data** | Works, but runs on the invented "Pilot zona A" network |
 | **Planned** | Agreed direction, not built |
-| **Research** | Open question in `urbiva-ai`; no model or results exist |
+| **Research** | Code exists in `urbiva-ai`; no data, weights or results exist |
 
 ## Start here
 
@@ -34,6 +34,7 @@ Urbiva is AI-powered urban accessibility intelligence: suitable walking routes f
 | Data and privacy | [docs/data-privacy.md](docs/data-privacy.md) | Implemented and planned |
 | Development setup | [docs/development-setup.md](docs/development-setup.md) | Implemented |
 | Architecture decisions | [docs/adr/](docs/adr/) | Accepted |
+| AI research | [docs/ai-research.md](docs/ai-research.md) | Implemented in code, not trained |
 | Roadmap | [docs/roadmap.md](docs/roadmap.md) | Planned |
 
 ## Architecture at a glance
@@ -58,4 +59,6 @@ Documentation changes go through pull requests on `docs/*` branches. Keep the st
 
 ## License
 
-Private repository. Copyright Urbiva, all rights reserved. See [LICENSE](LICENSE).
+Copyright (c) 2026 the members of the team "Maximilian". All rights reserved.
+
+This repository is public so that it can be read. It is **not open source**. Use, copying, modification, distribution and training of AI systems on it are not permitted except as stated in the [Urbiva Proprietary License 1.0](LICENSE). Third-party components are listed in [NOTICE](NOTICE).

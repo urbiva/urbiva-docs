@@ -33,5 +33,5 @@ Status: **implemented** (MVP), with planned changes marked.
 | --- | --- |
 | Server-side storage with access control for reports and reviews | Planned |
 | Real network from licensed OpenStreetMap data plus field surveys | Planned |
-| Local vision model (UVA-Net S10) behind the same `/api/vision` contract | Research |
+| Local vision model (UVA-Net S10) behind the same `/api/vision` contract | Code implemented in `urbiva-ai`; not trained |
 | Light theme in the app (exists in the design system) | Planned |
