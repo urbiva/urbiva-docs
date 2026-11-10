@@ -43,16 +43,19 @@ Urbiva is AI-powered urban accessibility intelligence: suitable walking routes f
   <img alt="Architecture: urban observation, Urbiva Vision, verified barrier data, accessibility graph, Urbiva Go and Urban, Urbiva Impact. UVA-Net S10 is planned research." src="images/urbiva-architecture-dark.png" width="100%">
 </picture>
 
-## Repositories
+## Urbiva repositories
 
 | Repository | Purpose |
 | --- | --- |
-| `urbiva-app` | Next.js application with the four modules and the nine-step demo |
-| `urbiva-ai` | Research setup for UVA-Net S10 (planned) |
-| `urbiva-brand` | Logo package, tokens, brand guidelines, GitHub brand kit |
-| `urbiva-docs` | This documentation hub |
-| `.github` | Public organization profile and community health files |
+| [`urbiva-app`](https://github.com/urbiva/urbiva-app) | Application: Go, Vision, Urban and Impact |
+| [`urbiva-ai`](https://github.com/urbiva/urbiva-ai) | Research setup for UVA-Net S10, a planned local vision model |
+| [`urbiva-brand`](https://github.com/urbiva/urbiva-brand) | Logo package, tokens, guidelines and GitHub brand kit |
+| **urbiva-docs** | Product specifications, architecture, decisions and roadmap |
 
 ## Contributing
 
 Documentation changes go through pull requests on `docs/*` branches. Keep the status labels honest: describe what exists, not what we hope to build.
+
+## License
+
+Private repository. Copyright Urbiva, all rights reserved. See [LICENSE](LICENSE).
